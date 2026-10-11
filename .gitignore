@@ -1,0 +1,16 @@
+# Data
+df.csv
+df2.csv
+misclassified_documents.csv
+
+# R
+knn_judge_robot.R
+lsa_example.R
+lsa_court.R
+disser.R
+
+# Python
+.ipynb_checkpoints
+seminar_draft.ipynb
+tfidf_svm_models_metrics.ipynb
+classification_doc2vec_models_metrics.ipynb
